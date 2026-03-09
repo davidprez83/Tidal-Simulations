@@ -1,0 +1,9 @@
+# entorno virtual
+venv/
+
+# archivos compilados
+__pycache__/
+*.pyc
+
+# configuraciones del sistema
+.env
